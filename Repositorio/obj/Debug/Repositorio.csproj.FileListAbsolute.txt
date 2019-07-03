@@ -1,0 +1,9 @@
+C:\Users\Alunos\Downloads\ExemploWeb01\Repositorio\bin\Debug\Repositorio.dll
+C:\Users\Alunos\Downloads\ExemploWeb01\Repositorio\bin\Debug\Repositorio.pdb
+C:\Users\Alunos\Downloads\ExemploWeb01\Repositorio\bin\Debug\Model.dll
+C:\Users\Alunos\Downloads\ExemploWeb01\Repositorio\bin\Debug\Model.pdb
+C:\Users\Alunos\Downloads\ExemploWeb01\Repositorio\obj\Debug\Repositorio.csprojAssemblyReference.cache
+C:\Users\Alunos\Downloads\ExemploWeb01\Repositorio\obj\Debug\Repositorio.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Downloads\ExemploWeb01\Repositorio\obj\Debug\Repositorio.csproj.CopyComplete
+C:\Users\Alunos\Downloads\ExemploWeb01\Repositorio\obj\Debug\Repositorio.dll
+C:\Users\Alunos\Downloads\ExemploWeb01\Repositorio\obj\Debug\Repositorio.pdb

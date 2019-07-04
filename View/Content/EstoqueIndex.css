@@ -1,0 +1,52 @@
+﻿body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: darkgray;
+}
+
+table{
+    width: 95%;
+    margin-left: 2.5%;
+}
+/*Coluna do cabeçalho e rodapé*/
+th{
+       background-color: lightblue;
+   }
+/*Cada linha terá 30px de altura*/
+tr{
+    height: 30px;
+}
+
+tr, th{
+    border: 1px solid black;
+    /*
+        border-top-color: red;
+        border-bottom-color: deeppink;
+        border-left-color: darkblue;
+        border-right-color: green;
+
+        border-top-style: dashed;
+        border-bottom-style: dotted;
+        border-left-style: groove;
+        border-right-style: solid;
+    */
+}
+/* para cada elemento filho da tr em que o índice seja par, será aplicada cor cinza*/
+tr:nth-child(even){
+    background-color: white;
+}
+tr:hover{
+    background-color: lightgreen;
+}
+
+#botao-cadastro {
+    background-color: #007bff;
+    color: white;
+    padding: 8px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    cursor: pointer;
+    float: right;
+    margin-right: 2.79%;
+    margin-bottom: 10px;
+}

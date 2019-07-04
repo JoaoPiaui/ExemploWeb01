@@ -98,7 +98,7 @@ namespace Repositorio
             SqlCommand comando = conexao.Conectar();
             comando.CommandText = @"UPDATE estoques SET
 nome = @NOME, quantidade = @QUANTIDADE, 
-valor = @VALOR WHERE id = ID";
+valor = @VALOR WHERE id = @ID";
             comando.Parameters.AddWithValue("@NOME", estoque.Nome);
             comando.Parameters.AddWithValue("@QUANTIDADE", estoque.Quantidade);
             comando.Parameters.AddWithValue("@VALOR", estoque.Valor);
